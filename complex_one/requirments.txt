@@ -1,0 +1,7 @@
+firecrawl
+python-dotenv
+typing
+pydantic
+langgraph
+langchain-groq
+langchain
